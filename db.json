@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "civilite": "Mr",
+      "prenom": "Jean",
+      "nom": "Dubois",
+      "email": "jeandubois@gmail.Com",
+      "tel": "+33658988747",
+      "framework": "Angular",
+      "autre": "React"
+    },
+    {
+      "civilite": "Mme",
+      "prenom": "Anne",
+      "nom": "Dupont",
+      "email": "annedupont@gmail.Com",
+      "tel": "+33747856325",
+      "framework": "Symfony",
+      "autre": "Django",
+      "id": 2
+    }
+  ]
+}
